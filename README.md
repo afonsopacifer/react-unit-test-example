@@ -4,9 +4,9 @@
 
 ## Run
 
-- Clone this repo.
-- install as dependencies `$ npm install`
-- run the test `$ npm test`
+- Clone.
+- Install all dependencies `$ npm install`
+- Run the test `$ npm test`
 
 ## Contributing
 Want to contribute? [Follow these recommendations](https://github.com/afonsopacifer/react-unit-test-example/blob/master/CONTRIBUTING.md).
